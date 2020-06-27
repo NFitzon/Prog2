@@ -1,0 +1,4 @@
+/home/niko/Projects/Prog2/obj/Debug/netcoreapp3.1/Prog2.csprojAssemblyReference.cache
+/home/niko/Projects/Prog2/obj/Debug/netcoreapp3.1/Prog2.csproj.CoreCompileInputs.cache
+/home/niko/Projects/Prog2/obj/Debug/netcoreapp3.1/Prog2.AssemblyInfoInputs.cache
+/home/niko/Projects/Prog2/obj/Debug/netcoreapp3.1/Prog2.AssemblyInfo.cs
