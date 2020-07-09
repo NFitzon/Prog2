@@ -5,16 +5,17 @@ public abstract class Kraftfahrzeug
 
     protected Motor Motor;
 
-    public void Fahren(double x);
-    public void SetMotot(Motor m);
+    public void Fahren(double x) { }
+    public void SetMotot(Motor m) { }
 
-    public void SetKennzeichen(string n);
-    public string GetInfo();
+    public void SetKennzeichen(string n) { }
+    public string GetInfo() { return ""; }
 
     protected double BerechneCarbonFootprint()
     {
         double coFootprint = (Kilometerstand / 100) *
                              Motor.GetVerbrauch() *
                              Motor.GetTreibstoffFaktor();
+        return coFootprint;
     }
 }

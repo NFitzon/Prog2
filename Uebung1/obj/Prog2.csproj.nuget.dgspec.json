@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/niko/Projects/Prog2/Prog2.csproj": {}
+    "/home/niko/Projects/Prog2/Uebung1/Prog2.csproj": {}
   },
   "projects": {
-    "/home/niko/Projects/Prog2/Prog2.csproj": {
+    "/home/niko/Projects/Prog2/Uebung1/Prog2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/niko/Projects/Prog2/Prog2.csproj",
+        "projectUniqueName": "/home/niko/Projects/Prog2/Uebung1/Prog2.csproj",
         "projectName": "Prog2",
-        "projectPath": "/home/niko/Projects/Prog2/Prog2.csproj",
+        "projectPath": "/home/niko/Projects/Prog2/Uebung1/Prog2.csproj",
         "packagesPath": "/home/niko/.nuget/packages/",
-        "outputPath": "/home/niko/Projects/Prog2/obj/",
+        "outputPath": "/home/niko/Projects/Prog2/Uebung1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/niko/.nuget/NuGet/NuGet.Config"

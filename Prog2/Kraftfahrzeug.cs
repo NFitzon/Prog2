@@ -8,7 +8,7 @@ public abstract class Kraftfahrzeug
     public void Fahren(double x){
 
     }
-    public void SetMotot(Motor m){
+    public void SetMotor(Motor m){
 
     }
 
